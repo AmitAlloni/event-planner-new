@@ -1,0 +1,7 @@
+node_modules/
+*.log
+.env
+event-planner-backend/node_modules/
+event-planner-frontend/node_modules/
+event-planner-backend/dist/
+event-planner-frontend/build/
